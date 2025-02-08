@@ -1,8 +1,8 @@
 // Define motor driver pins
-#define IN1 8  // Motor A input 1
-#define IN2 7  // Motor A input 2
-#define IN3 6  // Motor B input 1
-#define IN4 5  // Motor B input 2
+#define IN1 11  // Motor A input 1
+#define IN2 10  // Motor A input 2
+#define IN3 9   // Motor B input 1
+#define IN4 8   // Motor B input 2
 
 void setup() {
     pinMode(IN1, OUTPUT);
